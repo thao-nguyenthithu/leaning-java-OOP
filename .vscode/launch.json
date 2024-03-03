@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Laptop",
+            "request": "launch",
+            "mainClass": "Laptop",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "Test1",
             "request": "launch",
             "mainClass": "Test1",
