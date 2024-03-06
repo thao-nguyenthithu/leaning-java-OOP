@@ -55,6 +55,7 @@ public class Test1 {
                     break;
                 default:
                     System.out.print("Nhap sai, vui long nhap lai: ");
+                    break;
             }
         }while(myOption != 1 && myOption != 2);
         
