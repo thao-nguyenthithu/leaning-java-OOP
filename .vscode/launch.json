@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "baitapHinhTron",
+            "request": "launch",
+            "mainClass": "lopmath.baitapHinhTron",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "cacham",
+            "request": "launch",
+            "mainClass": "lopmath.cacham",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "cacpheptoan",
             "request": "launch",
             "mainClass": "toan1ngoi.cacpheptoan",
