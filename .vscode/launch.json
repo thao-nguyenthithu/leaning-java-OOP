@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lenhContinue",
+            "request": "launch",
+            "mainClass": "caulenhrenhanh.lenhContinue",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "lenhBreak",
+            "request": "launch",
+            "mainClass": "caulenhrenhanh.lenhBreak",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "ThapPhansangNhiPhan",
             "request": "launch",
             "mainClass": "ThapPhansangNhiPhan",
