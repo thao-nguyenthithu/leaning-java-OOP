@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThapPhansangNhiPhan",
+            "request": "launch",
+            "mainClass": "ThapPhansangNhiPhan",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "BangCuuChuong",
             "request": "launch",
             "mainClass": "BangCuuChuong",
