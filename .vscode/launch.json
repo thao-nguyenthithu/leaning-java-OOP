@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BangCuuChuong",
+            "request": "launch",
+            "mainClass": "BangCuuChuong",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "TimSoNgayCuaThang",
+            "request": "launch",
+            "mainClass": "TimSoNgayCuaThang",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "baitapHinhTron",
             "request": "launch",
             "mainClass": "lopmath.baitapHinhTron",
