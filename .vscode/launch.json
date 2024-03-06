@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cacpheptoan",
+            "request": "launch",
+            "mainClass": "toan1ngoi.cacpheptoan",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "vidu",
+            "request": "launch",
+            "mainClass": "epkieu.vidu",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "Atest",
+            "request": "launch",
+            "mainClass": "phuongtiengt.Atest",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "phuongtiengt.Main",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "hinh.Main",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
+            "name": "Hinh",
+            "request": "launch",
+            "mainClass": "hinh.Hinh",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "Laptop",
             "request": "launch",
             "mainClass": "Laptop",
