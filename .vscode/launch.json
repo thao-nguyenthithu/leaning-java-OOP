@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryCatchFinally",
+            "request": "launch",
+            "mainClass": "TryCatchFinally",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "lenhContinue",
             "request": "launch",
             "mainClass": "caulenhrenhanh.lenhContinue",

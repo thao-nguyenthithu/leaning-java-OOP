@@ -20,3 +20,5 @@ public class lenhBreak {
         System.out.println("in ngoai for = " + in);
     }
 }
+
+//gap return la no ngung luon ham, ngung luon phuong thuc ma no dang o
