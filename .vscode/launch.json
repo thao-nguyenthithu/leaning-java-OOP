@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HoaDonCafe",
+            "request": "launch",
+            "mainClass": "HoaDonCafe",
+            "projectName": "learning-java-OOP_79ff14e1"
+        },
+        {
+            "type": "java",
             "name": "mang1",
             "request": "launch",
             "mainClass": "mang1",
