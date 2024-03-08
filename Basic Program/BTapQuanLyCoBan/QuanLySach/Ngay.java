@@ -1,11 +1,10 @@
-public class Ngay {
-    private int ngay, thang, nam; 
+public class NgayPhim {
+    private int ngay, thang, nam;
 
-    public Ngay(int ngay, int thang, int nam){
-        this.ngay = ngay; 
-        this.thang = thang; 
+    public NgayPhim(int ngay, int thang, int nam) {
+        this.ngay = ngay;
+        this.thang = thang;
         this.nam = nam;
-
     }
 
     public int getNgay() {

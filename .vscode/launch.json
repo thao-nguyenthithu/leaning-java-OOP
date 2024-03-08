@@ -6,6 +6,37 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainPhim",
+            "request": "launch",
+            "mainClass": "MainPhim",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MainSach",
+            "request": "launch",
+            "mainClass": "MainSach"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "MyData",
+            "request": "launch",
+            "mainClass": "MyData"
+        },
+        {
+            "type": "java",
+            "name": "pt_toString",
+            "request": "launch",
+            "mainClass": "pt_toString"
+        },
+        {
+            "type": "java",
             "name": "HoaDonCafe",
             "request": "launch",
             "mainClass": "HoaDonCafe",

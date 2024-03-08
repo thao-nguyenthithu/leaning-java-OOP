@@ -1,7 +1,7 @@
 public class MainSach {
     public static void main(String[] args) {
-        Ngay ngay1 = new Ngay(8, 3, 2004);
-        Ngay ngay2 = new Ngay(4, 8, 2000);
+        NgayPhim ngay1 = new NgayPhim(8, 3, 2004);
+        NgayPhim ngay2 = new NgayPhim(4, 8, 2000);
 
         TacGia tacgia1 = new TacGia("Dua", ngay1); 
         TacGia tacgia2 = new TacGia("BimBim", ngay2); 

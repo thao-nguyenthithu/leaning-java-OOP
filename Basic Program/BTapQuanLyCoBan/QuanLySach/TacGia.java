@@ -1,8 +1,8 @@
 public class TacGia {
     private String tenTacGia; 
-    private Ngay ngaySinh;
+    private NgayPhim ngaySinh;
     
-    public TacGia(String tenTacGia, Ngay ngaySinh) {
+    public TacGia(String tenTacGia, NgayPhim ngaySinh) {
         this.tenTacGia = tenTacGia;
         this.ngaySinh = ngaySinh;
     }
@@ -15,11 +15,11 @@ public class TacGia {
         this.tenTacGia = tenTacGia;
     }
 
-    public Ngay getNgaySinh() {
+    public NgayPhim getNgaySinh() {
         return ngaySinh;
     }
 
-    public void setNgaySinh(Ngay ngaySinh) {
+    public void setNgaySinh(NgayPhim ngaySinh) {
         this.ngaySinh = ngaySinh;
     } 
 
