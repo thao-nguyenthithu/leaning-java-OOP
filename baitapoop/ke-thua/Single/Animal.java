@@ -1,6 +1,4 @@
-/**
- * Animal
- */
+
 public class Animal {
     protected String name; // protected chi lop con moi sai duoc thuoc tinh name
 

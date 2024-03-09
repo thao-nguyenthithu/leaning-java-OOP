@@ -1,6 +1,4 @@
-/**
- * MainSingle
- */
+
 public class MainSingle {
 
     public static void main(String[] args) {

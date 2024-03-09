@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainHierarchical",
+            "request": "launch",
+            "mainClass": "MainHierarchical"
+        },
+        {
+            "type": "java",
+            "name": "MainMultilevel",
+            "request": "launch",
+            "mainClass": "MainMultilevel"
+        },
+        {
+            "type": "java",
+            "name": "MainSingle",
+            "request": "launch",
+            "mainClass": "MainSingle"
+        },
+        {
+            "type": "java",
+            "name": "MainMT",
+            "request": "launch",
+            "mainClass": "MainMT"
+        },
+        {
+            "type": "java",
+            "name": "MainSinhVien",
+            "request": "launch",
+            "mainClass": "MainSinhVien"
+        },
+        {
+            "type": "java",
             "name": "MainPhim",
             "request": "launch",
             "mainClass": "MainPhim",

@@ -1,0 +1,11 @@
+**Trong Java không có đa kế thừa.  
+
+- Các dạng kế thừa trong Java: 
+        1/ Single - đơn
+        2/ Multilevel - nhiều tầng
+        3/ Hierarchical - thứ bậc
+
+- ? Vì sao không có đa kế thừa trong Java
+- Vì ko có tính đa kế thừa nên nta sử dụng interface
+
+
