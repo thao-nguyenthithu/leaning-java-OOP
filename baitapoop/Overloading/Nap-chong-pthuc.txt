@@ -1,0 +1,8 @@
+** Overloading: tạo ra nhiều phương thức có Tên GIỐNG nhau trong 1 class nhưng khác nhau tham số truyền vào.
+ 
+-> Giúp tăng tính sử dụng cho các phương thức bên trong 1 class. 
+
+Vidu: 
+double tinhTong(double a, double b); 
+double tinhTong(double[] arr); //tong mang
+int tinhTong(int a, int b);
