@@ -1,0 +1,3 @@
+** Overriding : vừa kế thừa phương thức từ lớp cha và vừa viết lại cái phương thức đó luôn.
+- Lớp con và cha có mối quan hệ kế thừa. 
+- method trong lớp con phải có TÊN & THAM SỐ giống với cha. 
