@@ -1,0 +1,11 @@
+** Tính trừu tượng là 1 tiến trình ẩn các chi tiết triển khai và chỉ hiển thị tính năng tới người dùng
+
+- Lớp trừu tượng - abstract: 
+        ko thể được dùng để tạo ra các đối tượng như lớp bình thường.
+        nó cần được kế thừa và phương thức của nó được triển khai. 
+        nó ko thể được khởi tạo.
+
+
+- Phương thức trừu tượng - abstract: 
+        abstract trong cha không có trình triển khai. (hay nói là nó ko có phần thân)
+        abstract sẽ được triển khai trong lớp con.
