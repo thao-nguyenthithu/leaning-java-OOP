@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainPTGT",
+            "request": "launch",
+            "mainClass": "MainPTGT"
+        },
+        {
+            "type": "java",
             "name": "MainHinh",
             "request": "launch",
             "mainClass": "MainHinh"
