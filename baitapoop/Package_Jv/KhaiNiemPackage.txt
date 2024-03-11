@@ -1,0 +1,9 @@
+** Package cung cấp chức năng bảo vệ truy cập và quản lý không gian tên.
+
+#Có 2 kỹ thuật: 
+        - KT đặt tên: tên gói được viết bằng chữ thường. 
+        - KT điền khiển truy xuất
+
+Java có 2 loại gói: Gói có sẵn, Gói do người dùng định nghĩa
+
+//package packagename;
