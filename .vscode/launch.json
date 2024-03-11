@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainInterface",
+            "request": "launch",
+            "mainClass": "MainInterface",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "RandomNumbers",
             "request": "launch",
             "mainClass": "RandomNumbers"

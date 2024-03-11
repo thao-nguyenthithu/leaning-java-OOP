@@ -1,0 +1,16 @@
+    Như đã học trước đó, thì trong Java 1 class con chỉ kế thừa được 1 class cha thôi.
+    --> để cho 1 class có thể kế thừa được nhiều class cha, mẹ, ông, bà.. thì ta phải dùng interface.
+
+** Mục đích của interface là để thu được tính trừu tượng hoàn toàn và đa kế thừa trong java.
+
+** Interface là gì? 
+        - Là 1 bản thiết kế của 1 class. 
+        - Nó chỉ có CÁC PHƯƠNG THỨC TRỪU TƯỢNG & CÁC HẰNG SỐ. 
+                + Tất cả các HẰNG SỐ đặt mặc định dạng "public static final". 
+                + Tất cả các PHƯƠNG THỨC ở dạng "public". 
+        - Giống như abstract, nó ko thể được khởi tạo thành đối tượng.
+
+#Note: 
+        khi 1 class "implements" 1 interface thì class đó phải hiện thực lại toàn bộ phương thức và hằng số của inter.
+        1 class có thể triển khai 1 hoặc nhiều interface tại  1 thời điểm. 
+        1 interface có thể kế thừa từ 1 interface khác.
