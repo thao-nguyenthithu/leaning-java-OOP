@@ -6,6 +6,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RandomNumbers",
+            "request": "launch",
+            "mainClass": "RandomNumbers"
+        },
+        {
+            "type": "java",
+            "name": "MainFile",
+            "request": "launch",
+            "mainClass": "MainFile",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "MainPTGT",
             "request": "launch",
             "mainClass": "MainPTGT"

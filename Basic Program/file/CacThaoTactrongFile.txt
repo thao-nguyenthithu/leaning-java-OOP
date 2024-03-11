@@ -1,0 +1,14 @@
+** Thao tác với File
+        1/Tìm file nằm ở đâu 
+        2/Mở file
+        3/ Thao tác với file: sửa, xóa, thêm..
+        4/Ghi lại 
+        5/ Đóng file 
+
+
+Tạo danh sách 50 số ngẫu nhiên,
+tìm các số nguyên tố, 
+lưu vào file
+        dòng 1: 50 số ngẫu nhiên ban đầu, 
+        dòng 2: danh sách các số nguyên tố
+        
