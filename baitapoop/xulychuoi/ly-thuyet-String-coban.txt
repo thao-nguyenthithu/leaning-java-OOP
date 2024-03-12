@@ -1,0 +1,8 @@
+* Trong Java chuỗi có 3 thể hiện
+        - String : bất biến - Đối tượng String ko thay đổi được.
+                    Áp dụng cho các chuỗi có độ dài cố định, ko đổi trong quá trình chạy.
+        - StringBuffer : khả biến, multi-thread
+        - StringBuilder: khả biến, single-thread
+
+* Các String đều là các đối tượng chứ kp là mảng ký tự.
+
