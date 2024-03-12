@@ -1,0 +1,8 @@
+** Có 3 cách sao chép dữ liệu mảng trong Java:
+        - Toán tử gán: copy tham chiếu(kiểu vùng nhớ), khi thay đổi giá trị 1 mảng thì mảng thứ 2 cũng thay đổi theo.
+                        2 biến mảng tham chiếu tới 1 đối tượng
+        - clone() : copy nội dung, khi thay đổi trên 1 mảng sẽ ko ảnh hưởng tới mảng kia.
+                    2 biến mảng tham chiêú tới 2 đối tượng khác nhau => COPY TOÀN BỘ.
+        - System.arraycopy():  copy nội dung, khi thay đổi trên 1 mảng sẽ ko ảnh hưởng tới mảng kia.
+                               2 biến mảng tham chiêú tới 2 đối tượng khác nhau => CÓ THỂ COPY 1 VÀI PHẦN TỬ TRONG MẢNG CŨNG ĐƯỢC.
+
