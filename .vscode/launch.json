@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestJDBCUtil",
+            "request": "launch",
+            "mainClass": "test.TestJDBCUtil",
+            "projectName": "BaiTap_03"
+        },
+        {
+            "type": "java",
             "name": "MainInterface",
             "request": "launch",
             "mainClass": "MainInterface",

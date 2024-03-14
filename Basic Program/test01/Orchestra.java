@@ -10,11 +10,6 @@ public class Orchestra {
         instruments.add(instrument);
     }
 
-    public void playAll() {
-        for (Instrument instrument : instruments) {
-            instrument.play();
-        }
-    }
 
     public void tuneAll() {
         for (Instrument instrument : instruments) {
@@ -40,10 +35,5 @@ public class Orchestra {
         }
     }
 
-    public void printAll() {
-        for (Instrument instrument : instruments) {
-            System.out.println(instrument.what);
-        }
-    }
 }
 
