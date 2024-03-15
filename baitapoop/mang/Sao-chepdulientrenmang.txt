@@ -6,3 +6,6 @@
         - System.arraycopy():  copy nội dung, khi thay đổi trên 1 mảng sẽ ko ảnh hưởng tới mảng kia.
                                2 biến mảng tham chiêú tới 2 đối tượng khác nhau => CÓ THỂ COPY 1 VÀI PHẦN TỬ TRONG MẢNG CŨNG ĐƯỢC.
 
+
+** Tìm kiếm, sắp xếp và copy mảng bằng hàm có sẵn.
+https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html
