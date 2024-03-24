@@ -1,0 +1,21 @@
+		Xây dựng chương trình quản lý danh sách sinh viên 
+		
+Thông tin sinh viên gồm: 
+	- Mã sinh viên String
+	- Họ và tên String
+	- Năm sinh int
+	- Điểm trung bình double
+
+Yêu cầu: 
+	- Sử dụng ArrayList
+	- Cho phép người dùng lựa chọn và thực hiện: 
+				1. Thêm sinh viên vào danh sách.
+				2. In danh sach SV ra man hinh. 
+				3. Kiểm tra danh sách có rỗng hay không. 
+				4. Lấy ra số lượng sinh viên trong danh sách. 
+				5. Làm rỗng danh sách sinh viên. 
+				6. Kiểm tra sv có tồn tại trong danh sách hay ko, dựa trên MSV. 
+				7. Xóa 1 sv ra khỏi danh sách dựa trên MSV. 
+				8. Tìm kiếm tất cả sv dự trên Tên được nhập từ bàn phím. 
+				9. Xuất ra danh sách sinh viên có điểm từ cao đến thấp.
+				
