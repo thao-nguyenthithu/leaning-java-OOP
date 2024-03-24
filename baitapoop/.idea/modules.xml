@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/baitapoop.iml" filepath="$PROJECT_DIR$/baitapoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gametaixiu/gametaixiu.iml" filepath="$PROJECT_DIR$/gametaixiu/gametaixiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/ke-thua/ke-thua.iml" filepath="$PROJECT_DIR$/ke-thua/ke-thua.iml" />
       <module fileurl="file://$PROJECT_DIR$/mang/mang.iml" filepath="$PROJECT_DIR$/mang/mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodcompareTo/methodcompareTo.iml" filepath="$PROJECT_DIR$/methodcompareTo/methodcompareTo.iml" />
