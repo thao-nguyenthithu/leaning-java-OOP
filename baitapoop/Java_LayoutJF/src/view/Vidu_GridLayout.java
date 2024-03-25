@@ -24,7 +24,7 @@ public class Vidu_GridLayout extends JFrame{
 //		JButton button1 = new JButton("Dang ki");
 //		JButton button2 = new JButton("Dang nhap");
 //		
-		for(int i = 0; i< 10; i++) {
+		for(int i = 0; i< 12; i++) {
 			JButton button = new JButton(i + "");
 			this.add(button);
 		}
